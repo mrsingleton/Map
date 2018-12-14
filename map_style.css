@@ -14,10 +14,11 @@ main {
 
 }
 
-.title {
+.water-image {
 	position: relative;
 	height: 400px;
 	overflow: hidden;
+	background: url("water-image.jpeg"); no-repeat center;
 	background-size: cover;
 }
 
